@@ -5,10 +5,10 @@ commands!
 * apt get ugrade
 * pip install --upgrade pip
 * pkg install git
-* git clone 
+* git clone https://github.com/HorridHanu/Cup.git
 * ls
 * Cup
 * chmod +x *
 * ls
 * python3 cup.py -i (for profile passwords :)
-* 
+
