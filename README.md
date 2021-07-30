@@ -1,8 +1,8 @@
 # Cup (Common User Passwords :)
 Its Python tool that simple generate passwords :)
 commands!
-* apt get update
-* apt get ugrade
+* pkg install update
+* pkg install upgrade
 * pip install --upgrade pip
 * pkg install git
 * git clone https://github.com/HorridHanu/Cup.git
